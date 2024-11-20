@@ -39,3 +39,5 @@ def get_performance_metrics(TP, TN, FP, FN):
     F1 = 2 * precision * recall / (precision + recall)
 
     return accuracy, precision, recall, F1
+
+# Test github
