@@ -1,0 +1,21 @@
+{
+    "unequal": 1,
+    "n_neighbors": 2,
+    "p": "cosine",
+    "TN_v": 99,
+    "TP_v": 40,
+    "FP_v": 1,
+    "FN_v": 10,
+    "accuracy_v": 0.9266666666666666,
+    "precision_v": 0.975609756097561,
+    "recall_v": 0.8,
+    "F1_v": 0.8791208791208791,
+    "TN_t": 150,
+    "TP_t": 40,
+    "FP_t": 0,
+    "FN_t": 10,
+    "accuracy_t": 0.95,
+    "precision_t": 1.0,
+    "recall_t": 0.8,
+    "F1_t": 0.888888888888889
+}
