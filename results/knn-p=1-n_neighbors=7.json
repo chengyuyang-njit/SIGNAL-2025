@@ -1,7 +1,6 @@
 {
     "unequal": 1,
     "n_neighbors": 7,
-    "p": "cosine",
     "TN_v": 97,
     "TP_v": 42,
     "FP_v": 3,
