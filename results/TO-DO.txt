@@ -1,0 +1,5 @@
+knn-metric-cosin
+knn-p-1
+knn-p-2
+
+Validation on rosacea needs to be rerun.
